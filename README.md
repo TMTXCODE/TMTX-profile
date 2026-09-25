@@ -1,8 +1,30 @@
+
 # TMTXCODE
 
-A developer focused on learning, building, and exploring technology.
+خب، اینجا قراره یه چیزایی از من پیدا کنی.
 
-## About
+اگه دنبال یه معرفی رسمی و خشک و این حرفایی، جای اشتباهی اومدی.
+کلاً بیشتر وقتم یا پای کدم، یا دارم یه چیز جدید یاد می‌گیرم،
+یا یه پروژه رو شروع کردم که هنوز خودمم نمی‌دونم آخرش چی از آب درمیاد.
 
-I’m interested in programming, networking, Linux, and cybersecurity.
-Currently learning, building small projects, and improving my skills.
+## درباره من
+
+برنامه‌نویسی، شبکه، لینوکس و امنیت سایبری از چیزاییه که باهاشون حال می‌کنم.
+هرچی بلد نباشم، یادش می‌گیرم؛ هرچی هم یاد بگیرم، معمولاً یه راهی
+پیدا می‌کنم که باهاش یه چیزی بسازم.
+
+فعلاً اول مسیرم، ولی قرار نیست همون‌جا بمونم.
+
+## چیزایی که دارم یاد می‌گیرم
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- C++
+- SQL
+- Git و GitHub
+- Linux
+- Networking
+- API
+- JSON
